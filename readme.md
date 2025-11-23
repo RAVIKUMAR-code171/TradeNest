@@ -4,3 +4,5 @@ Please choose the "branch" corresponding to the topic to find the code up to tha
 - Buy and sell stocks
 - Portfolio tracking
 - Holdings and positions view
+## Tech Stack
+- React, Node.js, Express, MongoDB
