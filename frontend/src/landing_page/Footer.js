@@ -1,3 +1,4 @@
+// fixed footer links alignment
 import React from "react";
 
 function Footer() {
